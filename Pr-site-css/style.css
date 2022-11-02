@@ -1,0 +1,24 @@
+body {
+  background-color: #e6ffff;
+  text-align: left;
+  font-family: Merriweather, sans-serif;
+    }
+}
+h1 {
+  color : #2F4F4F;
+  font-size: 90px;
+     }
+h3 {
+   font-weight: bold ;
+   color: #11999E;
+   font-family: Montserrat, cursive;
+   }
+
+a {
+  color : #800000;
+}
+ a:hover {
+    background-color : black;
+    color: white;
+    font-weight: bold;
+}
